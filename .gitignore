@@ -1,0 +1,7 @@
+creds
+*.log
+*.env
+.aws/*
+
+.kube/
+.kube/*
